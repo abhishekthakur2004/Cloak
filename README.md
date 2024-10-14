@@ -1,0 +1,2 @@
+# Cloak
+Automatic Privacy Filter
